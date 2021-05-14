@@ -23,4 +23,4 @@ Program należy uruchomić z parametrami 𝑛, 𝑑, 𝑏, 𝑘, ℎ.<br />
 𝑘 - liczba pakietów wysyłanych<br />
 ℎ - żywotność pakietu<br />
 Przykładowe wywołanie:<br />
-go run symulacja.go 12 3 2 7 13
+```go run symulacja.go 12 3 2 7 13```
