@@ -1,4 +1,4 @@
-# Symulacja-Programowanie-Wspóbieżne
+# Wspóbieżna symulacja
 Program symuluje przepływ pakietów pomiędzy wierzchołkami grafu skierowanego. Wierzchołki połączone są kolejno, tzn. wierzchołek 1 wysyła pakiet do wierzchołka 2, ten z kolei do wierzchołka 3 itd. W programie osobne wątki: nadawcę, wierzchołki pośrednie, odbiorcę, drukarkę oraz kłusownika.
 
 
